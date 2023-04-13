@@ -70,3 +70,81 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+*.dll
+Exports/UnityRpgGame_Data/StreamingAssets/UnityServicesProjectConfiguration.json
+Exports/UnityRpgGame_Data/sharedassets1.assets.resS
+Exports/UnityRpgGame_Data/sharedassets1.assets
+Exports/UnityRpgGame_Data/sharedassets0.assets.resS
+Exports/UnityRpgGame_Data/sharedassets0.assets
+Exports/UnityRpgGame_Data/ScriptingAssemblies.json
+Exports/UnityRpgGame_Data/RuntimeInitializeOnLoads.json
+Exports/UnityRpgGame_Data/Resources/unity_builtin_extra
+Exports/UnityRpgGame_Data/Resources/unity default resources
+Exports/UnityRpgGame_Data/resources.assets.resS
+Exports/UnityRpgGame_Data/resources.assets
+Exports/UnityRpgGame_Data/level1.resS
+Exports/UnityRpgGame_Data/level1
+Exports/UnityRpgGame_Data/level0
+Exports/UnityRpgGame_Data/globalgamemanagers.assets
+Exports/UnityRpgGame_Data/globalgamemanagers
+Exports/UnityRpgGame_Data/boot.config
+Exports/UnityRpgGame_Data/app.info
+Exports/UnityRpgGame.exe
+Exports/UnityCrashHandler64.exe
+Exports/New folder/UnityRpgGame_Data/StreamingAssets/UnityServicesProjectConfiguration.json
+Exports/New folder/UnityRpgGame_Data/sharedassets1.resource
+Exports/New folder/UnityRpgGame_Data/sharedassets1.assets.resS
+Exports/New folder/UnityRpgGame_Data/sharedassets1.assets
+Exports/New folder/UnityRpgGame_Data/sharedassets0.assets.resS
+Exports/New folder/UnityRpgGame_Data/sharedassets0.assets
+Exports/New folder/UnityRpgGame_Data/ScriptingAssemblies.json
+Exports/New folder/UnityRpgGame_Data/RuntimeInitializeOnLoads.json
+Exports/New folder/UnityRpgGame_Data/Resources/unity_builtin_extra
+Exports/New folder/UnityRpgGame_Data/Resources/unity default resources
+Exports/New folder/UnityRpgGame_Data/resources.assets.resS
+Exports/New folder/UnityRpgGame_Data/resources.assets
+Exports/New folder/UnityRpgGame_Data/level1.resS
+Exports/New folder/UnityRpgGame_Data/level1
+Exports/New folder/UnityRpgGame_Data/level0
+Exports/New folder/UnityRpgGame_Data/globalgamemanagers.assets
+Exports/New folder/UnityRpgGame_Data/globalgamemanagers
+Exports/New folder/UnityRpgGame_Data/boot.config
+Exports/New folder/UnityRpgGame_Data/app.info
+Exports/New folder/UnityRpgGame.exe
+Exports/New folder/UnityCrashHandler64.exe
+Exports/New folder/MonoBleedingEdge/etc/mono/mconfig/config.xml
+Exports/New folder/MonoBleedingEdge/etc/mono/config
+Exports/New folder/MonoBleedingEdge/etc/mono/browscap.ini
+Exports/New folder/MonoBleedingEdge/etc/mono/4.5/web.config
+Exports/New folder/MonoBleedingEdge/etc/mono/4.5/settings.map
+Exports/New folder/MonoBleedingEdge/etc/mono/4.5/machine.config
+Exports/New folder/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+Exports/New folder/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+Exports/New folder/MonoBleedingEdge/etc/mono/4.0/web.config
+Exports/New folder/MonoBleedingEdge/etc/mono/4.0/settings.map
+Exports/New folder/MonoBleedingEdge/etc/mono/4.0/machine.config
+Exports/New folder/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+Exports/New folder/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+Exports/New folder/MonoBleedingEdge/etc/mono/2.0/web.config
+Exports/New folder/MonoBleedingEdge/etc/mono/2.0/settings.map
+Exports/New folder/MonoBleedingEdge/etc/mono/2.0/machine.config
+Exports/New folder/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+Exports/New folder/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+Exports/MonoBleedingEdge/etc/mono/mconfig/config.xml
+Exports/MonoBleedingEdge/etc/mono/config
+Exports/MonoBleedingEdge/etc/mono/browscap.ini
+Exports/MonoBleedingEdge/etc/mono/4.5/web.config
+Exports/MonoBleedingEdge/etc/mono/4.5/settings.map
+Exports/MonoBleedingEdge/etc/mono/4.5/machine.config
+Exports/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+Exports/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+Exports/MonoBleedingEdge/etc/mono/4.0/web.config
+Exports/MonoBleedingEdge/etc/mono/4.0/settings.map
+Exports/MonoBleedingEdge/etc/mono/4.0/machine.config
+Exports/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+Exports/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+Exports/MonoBleedingEdge/etc/mono/2.0/web.config
+Exports/MonoBleedingEdge/etc/mono/2.0/settings.map
+Exports/MonoBleedingEdge/etc/mono/2.0/machine.config
+Exports/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+Exports/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
